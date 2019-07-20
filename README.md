@@ -26,6 +26,10 @@ left join (SELECT SK_ID_CURR
                     FROM home_credit.installments_payments group by SK_ID_CURR) prev 
                     
                     on prev.SK_ID_CURR = app_train.SK_ID_CURR;
+		    
+	
+	
+I din't push the inputs and the mysql dump. Since it was very large file.
                     
                     
                   
