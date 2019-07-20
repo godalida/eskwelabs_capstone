@@ -1,2 +1,2 @@
-# eskwelabs_capstone
+# My Eskwelabs Capstone Project
 Default Risk prediction
